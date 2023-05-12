@@ -1,0 +1,76 @@
+
+body {
+    background-image: url(Imagens/background\ image.jpg);
+    background-size:contain;
+    }
+
+div {
+    text-align: center;
+}
+
+a {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    margin-left: 60px;
+    text-decoration: none;
+    background-color: rgb(152, 220, 158);;
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+    border-radius: 15px;
+    border-color: black;
+    border-width: 2px;
+    padding: 5px 130px;
+}
+
+#lorem1 {
+    background-color: rgba(240, 239, 213, 0.604);
+    font-family: 'Montserrat', sans-serif;
+    font-size:34px;
+    text-align: center;
+}
+
+#lorem2 {
+    margin-left: 80px;
+    font-family: 'Montserrat', sans-serif;
+    font-size:34px;
+}
+
+.promoção {
+    background-color: rgb(152, 220, 158);
+    color: rgb(255, 255, 255);
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: 40px;
+}
+
+
+.botaoimagem1 {
+    background-color: rgba(250, 235, 215, 0);
+}
+
+.botaoimagem2 {
+    background-color: rgba(240, 248, 255, 0); 
+}
+
+.lab {
+    text-align: center;
+    background-color: white;
+    color: rgb(152, 220, 158);
+    font-size: 35px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.animal {
+    background-color: rgb(152, 220, 158);
+    color: rgb(255, 255, 255);
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: 30px;
+}
+
+.finalização{
+    background-color: darkolivegreen;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}

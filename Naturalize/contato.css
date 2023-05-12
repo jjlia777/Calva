@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(227, 241, 228);
+}
+
+.form {
+    background-color:  rgb(152, 220, 158);
+        color: white;
+        font-family: 'Montserrat', sans-serif;
+        text-align: center;
+        font-size: 45px;
+        padding: 3px 3px;
+}

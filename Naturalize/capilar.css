@@ -1,0 +1,49 @@
+    body {
+        background-color: white;
+    }
+
+    .lisos {
+        background-color:  rgb(152, 220, 158);
+        color: white;
+        font-family: 'Montserrat', sans-serif;
+        text-align: center;
+        font-size: 45px;
+        padding: 3px 3px;
+    }
+
+    #fig1 {
+        margin: 20px;
+        border: 0px;
+        padding: 0px;
+    }
+
+    .ondulados {
+        background-color:  rgb(152, 220, 158);
+        color: white;
+        font-family: 'Montserrat', sans-serif;
+        text-align: center;
+        font-size: 45px;
+        padding: 3px 3px;
+    }
+
+    .cacheados {
+        background-color:  rgb(152, 220, 158);
+        color: white;
+        font-family: 'Montserrat', sans-serif;
+        text-align: center;
+        font-size: 45px;
+        padding: 3px 3px;
+    }
+
+    .volte {
+        background-color:  rgb(104, 177, 110);
+        color: rgb(0, 0, 0);
+        font-family: 'Montserrat', sans-serif;
+        text-align: left;
+        text-decoration: solid;
+        font-size: 40px;
+        padding: 5px;
+        border-radius: 15px;
+
+    }
+   

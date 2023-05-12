@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(237, 218, 194); /*Muda a cor do fundo do site*/
+}
+
+h1 {color: rgb(26, 68, 10); /*Cor do texto*/
+    text-align: center; /*Centraliza o texto*/
+} 
+
+p {
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; /*Muda fonte*/
+    text-align: justify; /*Justifica o texto*/
+    text-align: center;
+}
+
+.texto-1 { /*Uso . para chamar uma classe*/
+    color: purple;
+    text-align: center;
+}
+
+#Principal { /*Uso # para chamar um ID*/
+    color: darkorchid;
+    text-align: center;
+}
+
+a {
+    text-decoration: none; /*Remove a formatação padrão da tag*/
+    font-size: 50px; /*Muda tamanho da fonte*/
+    background-color: rgb(137, 185, 226);
+    color: white;
+    border-radius: 15px; /*Arredonda a borda*/
+    border-color: black; /*Muda a cor da borda*/
+    border-style: dashed; /*Muda o estilo da borda*/
+    border-width: 0,5px; /*Muda a largura da borda*/
+    padding: 5px 5px;
+}
+
+img {
+    width: 220px; /*Muda a largura da imagem*/
+    height: 220px; /*Muda a altura da imagem*/
+}
+
+div {
+    text-align: center;
+}
